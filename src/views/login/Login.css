@@ -1,0 +1,37 @@
+.login-box {
+  background-color: rgb(35, 39, 69);
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-container {
+  width: 500px;
+  background-color: #fff;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+.login-title {
+    text-align: center;
+    height: 80px;
+    line-height: 80px;
+    font-size: 26px;
+    color: #000;
+}
+
+.login-form {
+}
+
+.login-form-forgot {
+  float: right;
+}
+
+.ant-col-rtl .login-form-forgot {
+  float: left;
+}
+
+.login-form-button {
+  width: 100%;
+}

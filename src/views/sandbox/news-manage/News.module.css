@@ -1,0 +1,12 @@
+.step_1_active {
+    height: 120px;
+    margin-top: 50px;
+}
+
+.step_2_active {
+    margin-top: 50px;
+}
+
+.hidden {
+    display: none;
+}
